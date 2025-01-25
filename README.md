@@ -4,6 +4,10 @@ This project demonstrates how to use a Convolutional Neural Network (CNN) to cla
 
 ---
 
+## Dataset
+
+Download the dataset from Kaggle using the URL: https://www.kaggle.com/datasets/nabeelsajid917/covid-19-x-ray-10000-images
+
 ## Features
 
 - **Model Training**: Trains a CNN to classify X-ray images.
