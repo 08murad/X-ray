@@ -93,13 +93,15 @@ The trained model can be evaluated on a test dataset by using the code provided 
 
 ## License
 
-This project is released under the **CC0 1.0 Universal (CC0 1.0) Public Domain Dedication**.
-
-### CC0-1.0 Summary:
-- You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.
-- No warranty is provided.
+This project is licensed under the CC0-1.0 license License. Feel free to use and modify the code for personal or commercial purposes.
 
 For more details, refer to the full license text at: [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)
+
+---
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests with enhancements or fixes.
 
 ---
 
